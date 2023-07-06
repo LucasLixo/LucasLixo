@@ -1,7 +1,5 @@
 # Olá! Eu sou Lucas Lixo ✌️
 
-[![ImageLogo01](https://github.com/LucasLixo/LucasLixo/assets/104840846/d855b887-d49c-4624-8481-b79cd6156465)]
-(https://github.com/LucasLixo/)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasLixo&show_icons=true&theme=dark)](https://github.com/LucasLixo/)
 
 - Sou um programador web apaixonado por criar experiências web bonitas e interativas. Tenho experiência em HTML, CSS e JavaScript, com um conhecimento abrangente em jQuery e PHP. Além disso, trabalho com Sass para criar folhas de estilo CSS escaláveis e de fácil manutenção.
