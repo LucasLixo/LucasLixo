@@ -1,16 +1,12 @@
-### Hi there 👋
+# Olá! Eu sou Lucas Lixo ✌️
 
-<!--
-**LucasLixo/LucasLixo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Blob](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white
+)
+![Blob](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![Blob](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Blob](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white
+)
+![Blob](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
+)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasLixo&layout=donut&theme=dark)
