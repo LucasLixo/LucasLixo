@@ -20,3 +20,8 @@
 ## Estatística das Linguages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasLixo&layout=donut&theme=dark)](https://github.com/LucasLixo/)
+
+## Contato
+
+- Para qualquer dúvida ou solicitação de permissão, entre em contato com o autor através dos seguintes meios de contato:
+  - Email: [paulolucasalves2006@gmail.com]
