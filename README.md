@@ -24,4 +24,6 @@
 ## Contato
 
 - Para qualquer dúvida ou solicitação de permissão, entre em contato com o autor através dos seguintes meios de contato:
-  - Email: [paulolucasalves2006@gmail.com]
+  - Email: `paulolucasalves2006@gmail.com`
+
+![ImageLogo128](https://github.com/LucasLixo/LucasLixo/assets/104840846/f74ec123-a51f-4be7-9ffb-281f1f7bdd83)
