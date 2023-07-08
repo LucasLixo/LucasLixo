@@ -1,4 +1,4 @@
-# Olá! Eu sou Lucas Lixo ✌️
+# Olá! Eu sou Lucas Lixo ✌️![ImageLogo48](https://github.com/LucasLixo/LucasLixo/assets/104840846/4118ca79-6efb-47e7-9a0b-7a3cc502f153)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasLixo&show_icons=true&theme=dark)](https://github.com/LucasLixo/)
 
@@ -25,5 +25,3 @@
 
 - Para qualquer dúvida ou solicitação de permissão, entre em contato com o autor através dos seguintes meios de contato:
   - Email: `paulolucasalves2006@gmail.com`
-
-![ImageLogo128](https://github.com/LucasLixo/LucasLixo/assets/104840846/f74ec123-a51f-4be7-9ffb-281f1f7bdd83)
