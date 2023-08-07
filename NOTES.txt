@@ -1,2 +1,3 @@
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasLixo&show_icons=true&theme=dark)](https://github.com/LucasLixo/)
+
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasLixo&layout=donut&theme=dark)](https://github.com/LucasLixo/)
