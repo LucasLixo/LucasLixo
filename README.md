@@ -1,6 +1,6 @@
 # Olá! Eu sou Lucas Lixo ✌️![ImageLogo48](https://github.com/LucasLixo/LucasLixo/assets/104840846/4118ca79-6efb-47e7-9a0b-7a3cc502f153)
 
-- Sou um programador web apaixonado por criar experiências web bonitas e interativas. Tenho experiência em HTML, CSS e JavaScript, com um conhecimento abrangente em jQuery e PHP. Além disso, trabalho com Sass para criar folhas de estilo CSS escaláveis e de fácil manutenção.
+- Sou um programador web com tenho experiência em HTML, CSS e JavaScript, com um conhecimento abrangente em jQuery, React Native e PHP.
 
 - Estou sempre em busca de aprender novas tecnologias e aprimorar minhas habilidades para entregar projetos de alta qualidade. Se você está procurando por um desenvolvedor web apaixonado por criar experiências incríveis na web, estou aqui para ajudar!
 
