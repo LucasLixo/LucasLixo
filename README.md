@@ -1,4 +1,4 @@
-# Olá! Eu sou Lucas Lixo ✌️![ImageLogo48](https://github.com/LucasLixo/LucasLixo/assets/104840846/4118ca79-6efb-47e7-9a0b-7a3cc502f153)
+# Olá! Eu sou Lucas Lixo ✌️
 
 - Sou um programador web com tenho experiência em HTML, CSS e JavaScript, com um conhecimento abrangente em jQuery, React Native e PHP.
 
