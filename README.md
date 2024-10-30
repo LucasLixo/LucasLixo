@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="" src="fastlane/App.png"  width=160 height=160  align="center">
+<img width="" src="fastlane/Icon.png"  width=160 height=160  align="center">
 
 # Lucas Lixo
 
@@ -39,5 +39,5 @@
 
 - Download
 
-  - [Player-Hub (Play Store)](https://play.google.com/store/apps/details?id=hub.player.listen)
-  - <a href="./fastlane/player_hub/build/Player-Hub.apk" download>Player-Hub.apk</a>
+  - [Player Hub (Play Store)](https://play.google.com/store/apps/details?id=hub.player.listen)
+  - <a href="https://github.com/LucasLixo/LucasLixo/releases/tag/ph-1.7.51" download>Player Hub (apk)</a>
