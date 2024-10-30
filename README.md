@@ -40,4 +40,4 @@
 - Download
 
   - [Player-Hub (Play Store)](https://play.google.com/store/apps/details?id=hub.player.listen)
-  - [Player-Hub.apk](./fastlane/player_hub/build/Player-Hub.apk)
+  - <a href="./fastlane/player_hub/build/Player-Hub.apk" download>Player-Hub.apk</a>
