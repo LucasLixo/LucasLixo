@@ -1,10 +1,6 @@
 <div align="center">
 
-<img width="" src="fastlane/Icon.png"  width=160 height=160  align="center">
-
-# Lucas Lixo
-
-## My Apps (only Android)
+# My Apps (only Android)
 
 ### Languages
 
@@ -19,6 +15,12 @@
 </div>
 
 ### Audio Player for Android(Offline)
+
+<div align="center">
+
+<img width="" src="fastlane/player_hub/App.png" width=110 height=110 align="center">
+
+</div>
 
 >[!Note]
 >
