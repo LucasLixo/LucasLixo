@@ -18,7 +18,7 @@
 
 <div align="center">
 
-<img width="" src="fastlane/player_hub/App.png" width=110 height=110 align="center">
+<img width="" src="fastlane/player_hub/App.png" width=160 height=160 align="center">
 
 </div>
 
