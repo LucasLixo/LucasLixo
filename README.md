@@ -41,6 +41,7 @@
 
 - Download
 
-  - <a href="https://play.google.com/store/apps/details?id=hub.player.listen">Player Hub (Play Store)</a>
+  - <a href="https://play.google.com/apps/testing/hub.player.listen">Player Hub (Play Store)</a>
   - <a href="https://github.com/LucasLixo/LucasLixo/releases/tag/ph-1.7.51">Player Hub (apk)</a>
-  - <a href="https://player-hub-app.blogspot.com/">Player Hub (Terms of Use)</a>
+  
+- <a href="https://player-hub-app.blogspot.com/">Terms of Use</a>
