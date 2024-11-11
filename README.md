@@ -74,5 +74,5 @@
 
 - Download
 
-  - <a href="https://github.com/LucasLixo/LucasLixo/releases/tag/hub-1.0.1">Player Hub (apk)</a>
+  - <a href="https://github.com/LucasLixo/LucasLixo/releases/tag/hub-1.0.1">Video Cast Hub (apk)</a>
   
