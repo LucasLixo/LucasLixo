@@ -41,7 +41,7 @@
 
 - Download
 
-  - <a href="https://play.google.com/apps/testing/hub.player.listen">Player Hub (Play Store)</a>
+  - <a href="https://play.google.com/store/apps/details?id=hub.player.listen">Player Hub (Play Store)</a>
   - <a href="https://github.com/LucasLixo/LucasLixo/releases/tag/hub-1.0.1">Player Hub (apk)</a>
   
 - <a href="https://player-hub-app.blogspot.com/">Terms of Use</a>
