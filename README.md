@@ -1,3 +1,9 @@
+```diff
++ My name is Paulo Lucas Alves França
++ I like code,
+- I hate front end.
+```
+
 ## Technologies
  
 **Languages:** C++, PHP, JavaScript, TypeScript, Dart, HTML, CSS
