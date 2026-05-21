@@ -7,20 +7,11 @@
 ## Technologies
 
 **Languages:** C++, PHP, JavaScript, TypeScript, Dart, HTML, CSS
+<br>
 **Frameworks & Libraries:** React, Expo Go, Flutter, CodeIgniter 4, SDL3 (Core, TTF, Image)
 <!--
 ---
 
-## Templates
-
-### [Template-Git-Generic](https://github.com/LucasLixo/Template-Git-Generic)
-Base template for any repository: `.gitattributes`, `.editorconfig` (UTF-8 with BOM, EOL), The Unlicense, and a default `README.md`.
-
-### [Template-CMake-CPP](https://github.com/LucasLixo/Template-CMake-CPP)
-Extends Template-Git-Generic for C++ projects: `CMakeLists.txt` with executable/library setup, platform detection, environment helpers, charset scripts for Linux and Windows, `clang-tidy`, `clang-format`, and `.vscode` settings.
-
----
- 
 ## Legacy Projects
 
 Early-career projects from the initial phase of programming studies. Public for reference only, no longer maintained.
